@@ -1,0 +1,10 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+
+[main]
+version = 0.2.0
+recent_files = ['yasamkapisi\\templates\\login.html', 'yasamkapisi\\templates\\register.html', 'yasamkapisi\\templates\\layout.html', 'config.py', 'yasamkapisi\\__init__.py', 'yasamkapisi\\models.py']
+
